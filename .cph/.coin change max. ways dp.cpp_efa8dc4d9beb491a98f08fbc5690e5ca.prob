@@ -1,0 +1,1 @@
+{"name":"Local: coin change max","url":"c:\\Users\\mohit\\Desktop\\DP\\coin change max. ways dp.cpp","tests":[{"id":1621393797919,"input":"10\n5\n1 2 3 4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mohit\\Desktop\\DP\\coin change max. ways dp.cpp","group":"local","local":true}
